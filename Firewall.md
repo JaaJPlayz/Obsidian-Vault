@@ -122,4 +122,4 @@ When configuring a firewall, it's common to create rules based on well-known por
 
 ### Conclusion
 
-A well-configured firewall is a crucial component of network security. It helps prevent unauthorized access to your network and ensures that only legitimate traffic can pass through. In your Obsidian vault, you can create detailed notes for each type of firewall and its configuration, as well as specific rules and best practices. Let me know if you’d like more details on any specific firewall topic or configuration!
+A well-configured firewall is a crucial component of network security. It helps prevent unauthorized access to your network and ensures that only legitimate traffic can pass through.
